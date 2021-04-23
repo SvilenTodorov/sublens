@@ -1,0 +1,91 @@
+body {
+}
+
+h1 {
+  font-size: 3.5rem;
+  line-height: 1.5;
+  text-align: left;
+  margin-top: 3.5rem;
+}
+
+
+.container-fluid {
+  padding: 3%, 15%, 7%;
+}
+
+#title {
+  background-color: #1A454D;
+  color: #f8f5f1;
+}
+
+.navbar {
+  padding: 0 0 2.5rem;
+  background-color: #1A454D;
+}
+
+.sublenslogo {
+  margin-top: 2.5rem;
+  margin-left: 2.5rem;
+}
+
+.lens-title {
+  background-color: #f8f5f1;
+}
+
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+font-size: 1.2rem;
+}
+
+.row {
+  text-align: center;
+  color: #666666;
+}
+
+.title-image {
+  margin-bottom: 3.5rem;
+  margin-top: 3.5rem;
+}
+
+#features {
+  padding: 7% 15%;
+  background-color: #1A454D;
+}
+
+.row-features {
+  background-color: #1A454D;
+}
+
+.icon:hover {
+  color: #358e9d;
+}
+
+#testimonials {
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #666666;
+  color: #358e9d;
+}
+
+.testimonial-image {
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+#pricing {
+  padding: 100px;
+  text-align: center;
+  background-color: #f8f5f1;
+}
+
+.pricing-column {
+  padding: 3% 2%;
+}
